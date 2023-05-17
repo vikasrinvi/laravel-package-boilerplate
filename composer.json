@@ -1,0 +1,17 @@
+{
+    "name": "vikasrinvi/laravel-package-boilerplate",
+    "description": "this is the boilerplate",
+    "autoload": {
+        "psr-4": {
+            "Vikasrinvi\\LaravelPackageBoilerplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vikas Rinvi",
+            "email": "vikas.rinvi@cubettech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
